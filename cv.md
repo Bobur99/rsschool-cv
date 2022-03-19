@@ -1,3 +1,4 @@
+![Alt-текст](./ava.png) 
 #RASULEV BOBUR
 #####FRONTEND DEVELOPER
 ######Uzbekistan, Tashkent
