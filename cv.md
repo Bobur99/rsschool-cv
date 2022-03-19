@@ -16,12 +16,12 @@
 ###### PROFFESIONAL SKILLS
 
 - *HTML, CSS, BOOTSTRAP*
- *FIGMA, PHOTOSHOP*
- *JAVASCRIPT, JQUERY*
- *GULP, SASS, SCSS*
- *GIT*
- *WORDPRESS, PHP*
- *REACT.JS, AXIOS, REDUX*
+- *FIGMA, PHOTOSHOP*
+- *JAVASCRIPT, JQUERY*
+- *GULP, SASS, SCSS*
+- *GIT*
+- *WORDPRESS, PHP*
+- *REACT.JS, AXIOS, REDUX*
 
 ###### CODE EXAMPLE
 
@@ -42,13 +42,13 @@
  >  *Portfolio: https://portfolio-myworks.netlify.app*
 
 ###### EDUCATION
-*2018 - 2022*
-***University:*** *TUIT*
-***Speciality:*** *Programming Ingeneer*
+* *2018 - 2022*
+* ***University:*** *TUIT*
+* ***Speciality:*** *Programming Ingeneer*
 
-*2020 - 2021*
-***Education center:*** *Proweb*
-***Speciality:*** *Web Development*
+* *2020 - 2021*
+* ***Education center:*** *Proweb*
+* ***Speciality:*** *Web Development*
 
 ###### LANGUAGES
 * *Uzbek - Fluent*
