@@ -39,14 +39,14 @@
 ###### EXPERIENCE
 
  >*Successfully developed more than 10 independent projects that meet all modern web standards*
- >  *Portfolio: https://portfolio-myworks.netlify.app*
+ >*  *Portfolio: https://portfolio-myworks.netlify.app*
 
 ###### EDUCATION
-* *2018 - 2022*
+>  ***2018 - 2022***
 * ***University:*** *TUIT*
 * ***Speciality:*** *Programming Ingeneer*
 
-* *2020 - 2021*
+> ***2020 - 2021***
 * ***Education center:*** *Proweb*
 * ***Speciality:*** *Web Development*
 
